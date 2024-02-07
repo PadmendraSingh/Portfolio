@@ -1,0 +1,32 @@
+.heading h2{
+    text-align: left;
+    margin-left: 5px;
+}
+.year{
+background: rgb(97, 93, 93);
+width: 60px;
+padding-left: 5px;
+border-radius: 20px;
+}
+.heading p{
+    font-size: 14px;
+    padding: 0 1px;
+    text-align: left;
+    margin-left: 5px;
+    
+   
+}
+.head{
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.card-1{
+    margin-left: 5px;
+    background: transparent;
+  
+    border: none;
+    border-right: 2px solid;
+    box-shadow: none;
+    
+}

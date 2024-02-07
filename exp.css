@@ -1,0 +1,37 @@
+.exp{
+    display: flex;
+    justify-content: space-between;
+    margin: 200px 50px 0 70px;
+   
+}
+.name-info{
+    flex-basis: 40%;
+}
+.name-info h2{
+    margin-bottom: 10px;
+}
+.heading-1 h2{
+    margin-top: 50px;
+}
+.year-exp h2 span{ 
+    font-size: 100px;
+
+}
+.nine{
+    background: rgb(57, 56, 56);
+    height: 50vh;
+    padding: 2px 10px 0 20px;
+    border-radius: 20px;
+    justify-content: space-between;
+}
+.nine-1{
+    margin-left: 50px;
+    background: rgb(58, 57, 57);
+    height: 50vh;
+    padding: 2px 10px 0 20px;
+    border-radius: 20px;
+}
+.year-ex h2 span{
+    font-size: 100px;
+
+}
